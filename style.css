@@ -1,0 +1,509 @@
+
+@font-face {
+	font-family: 'Monotype Corsiva';
+	src: url('./MTCORSVA.eot');
+	src: local('MTCORSVA'), url('./MTCORSVA.woff') format('woff'), url('./MTCORSVA.ttf') format('truetype');
+}
+
+hr{
+	border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+	
+}
+
+
+#Prints img:hover
+{
+opacity: 0.7;
+transition: width 1s;
+}
+
+.imgsizemain{
+	width:100%;
+}
+
+.imgsizemainwh{
+	width:100%;
+	height:50%;
+}
+
+.card{
+	margin-top:20px;
+	position: relative;
+	text-align: center;
+}
+
+.buynow{
+margin-top:5px; 
+margin-bottom:15px;
+}
+
+#pan_header 
+{
+padding-top: 18px;
+transition: width 1s;
+}
+				
+.btn-success 
+{
+background-color: black;
+border-color: transparent;
+transition: width 1s;
+}
+		
+.btn-success:hover
+{
+background-color: grey;
+border-color: transparent;
+transition: width 1s;
+}	
+	
+#imageidpanelaboutme
+{
+display: block;
+margin: auto;
+width:75%;
+transition: width 1s;
+}		
+	
+.nav li  a:hover {
+background-color: white;
+border-style: none;
+color: black !important;
+transition: width 1s;
+}
+			
+.left_top_corner_header_style
+{
+color: white;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:21px;
+transition: width 1s;
+}
+		
+.header_body_style
+{
+color: grey;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:30px;
+transition: width 1s;
+}
+
+.header_body_text_style
+{
+color: grey;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:18px;
+transition: width 1s;
+}
+
+.navbar-header a:hover {
+color: lightblue !important;
+text-decoration: none;
+transition: width 1s;
+
+}
+
+.navbar-header a:visited 
+{
+color: white;
+transition: width 1s;
+}
+
+.btn 
+{
+border:0px solid transparent;
+transition: width 1s;
+}
+
+ .resizefb{
+height:50px;
+ width:50px;
+ }
+
+ .carousel-inner img {
+     transition: width 1s;
+     width: 100%;
+     height: 100%;
+     margin:0 auto;
+ }
+
+
+/*Phones*/
+@media only screen and (min-width : 1px) and (max-width : 568px) {
+
+.navbar-header a:hover {
+color: lightgreen !important;
+text-decoration: none;
+transition: width 1s;
+}
+
+#pan_header 
+{
+padding-top: 20px;
+transition: width 1s;
+}
+				
+.btn-success 
+{
+background-color: black;
+border-color: transparent;
+transition: width 1s;
+}
+		
+.btn-success:hover
+{
+background-color: grey;
+border-color: transparent;
+transition: width 1s;
+}	
+	
+#imageidpanelaboutme
+{
+display: block;
+margin: auto;
+width:95%;
+transition: width 1s;
+}		
+	
+.nav li  a:hover {
+background-color: white;
+border-style: none;
+color: black !important;
+transition: width 1s;
+}
+			
+.left_top_corner_header_style
+{
+color: white;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:20px;
+transition: width 1s;
+}
+		
+.header_body_style
+{
+color: grey;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:20px;
+transition: width 1s;
+}
+
+.header_body_text_style
+{
+color: grey;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:16px;
+transition: width 1s;
+}
+
+.smalldevicecenteralign{
+	text-align: center;
+	transition: width 1s;
+}
+
+.navbar-header a:visited 
+{
+color: white;
+transition: width 1s;
+}
+		
+#Prints img:hover
+{
+opacity: 0.7;
+transition: width 1s;
+}
+
+.btn 
+{
+border:0px solid transparent;
+transition: width 1s;
+}
+
+.carousel-inner img {
+     width: 100%;
+     transition: width 1s;
+     width: 100%;
+ }
+
+ .clear{
+ 	clear:both;
+ }
+
+  .resizefb{
+height:30px;
+ width:30px;
+ }
+	
+	
+
+}
+
+/*Phones*/
+@media only screen and (min-width : 569px) and (max-width : 767px) {
+
+
+.navbar-header a:hover {
+color: red !important;
+text-decoration: none;
+transition: width 1s;
+}
+
+
+#pan_header 
+{
+padding-top: 20px;
+transition: width 1s;
+}
+				
+.btn-success 
+{
+background-color: black;
+border-color: transparent;
+transition: width 1s;
+}
+		
+.btn-success:hover
+{
+background-color: grey;
+border-color: transparent;
+transition: width 1s;
+}	
+	
+#imageidpanelaboutme
+{
+display: block;
+margin: auto;
+width:80%;
+transition: width 1s;
+}		
+	
+.nav li  a:hover {
+background-color: white;
+border-style: none;
+color: black !important;
+transition: width 1s;
+}
+			
+.left_top_corner_header_style
+{
+color: white;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:20px;
+transition: width 1s;
+}
+		
+.header_body_style
+{
+color: grey;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:20px;
+transition: width 1s;
+}
+
+.header_body_text_style
+{
+color: grey;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:18px;
+transition: width 1s;
+}
+
+.smalldevicecenteralign{
+	text-align: center;
+	transition: width 1s;
+}
+
+.navbar-header a:visited 
+{
+color: white;
+transition: width 1s;
+}
+		
+#Prints img:hover
+{
+opacity: 0.7;
+transition: width 1s;
+}
+
+.btn 
+{
+border:0px solid transparent;
+transition: width 1s;
+}
+
+.carousel-inner img {
+     width: 100%;
+     transition: width 1s;
+     width: 100%;
+ }
+
+ .clear{
+ 	clear:both;
+ }
+
+  .resizefb{
+height:30px;
+ width:30px;
+ }
+}
+
+
+/*ipads portrait and landscapes*/
+@media only screen and (min-width : 768px)  and (max-width : 980px) {
+	.navbar-header a:hover {
+color: pink !important;
+text-decoration: none;
+transition: width 1s;
+}
+
+
+#pan_header 
+{
+padding-top: 20px;
+transition: width 1s;
+}
+				
+.btn-success 
+{
+background-color: black;
+border-color: transparent;
+transition: width 1s;
+}
+		
+.btn-success:hover
+{
+background-color: grey;
+border-color: transparent;
+transition: width 1s;
+}	
+	
+#imageidpanelaboutme
+{
+display: block;
+margin: auto;
+width:95%;
+transition: width 1s;
+}		
+	
+.nav li  a:hover {
+background-color: white;
+border-style: none;
+color: black !important;
+transition: width 1s;
+}
+			
+.left_top_corner_header_style
+{
+color: white;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:20px;
+transition: width 1s;
+}
+		
+.header_body_style
+{
+color: grey;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:22px;
+transition: width 1s;
+}
+
+.header_body_text_style
+{
+color: grey;
+font-style: italic;
+font-family: "Monotype Corsiva";
+font-size:19px;
+transition: width 1s;
+}
+
+.smalldevicecenteralign{
+	text-align: center;
+	transition: width 1s;
+}
+
+.navbar-header a:visited 
+{
+color: white;
+transition: width 1s;
+}
+		
+#Prints img:hover
+{
+opacity: 0.7;
+transition: width 1s;
+}
+
+
+.btn 
+{
+border:0px solid transparent;
+transition: width 1s;
+}
+
+.carousel-inner img {
+     width: 100%;
+     transition: width 1s;
+     width: 100%;
+ }
+
+ .clear{
+ 	clear:both;
+ }
+
+  .resizefb{
+height:30px;
+ width:30px;
+ }
+}
+
+
+.pulse {
+  -webkit-animation-name: pulse;
+  animation-name: pulse;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  }
+  @-webkit-keyframes pulse {
+  0% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  }
+  50% {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  }
+  100% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  }
+  }
+  @keyframes pulse {
+  0% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  }
+  50% {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  }
+  100% {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  }
+  } 
